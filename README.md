@@ -55,8 +55,18 @@ python -m venv venv
 venv\Scripts\activate
 uvicorn backend.main:app --reload
 
-### Start The Frontend
+### 2️⃣Start The Frontend
 streamlit run frontend/dashboard.py
+
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(8).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(7).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(6).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(5).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(4).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(2).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(1).jpeg)
+![image url](https://github.com/RJagathiswar/AI-tutor/blob/23247db6a8e7bbbb3c64ab56be211338cf2e9afe/WhatsApp%20Image%202025-12-22%20at%209.45.17%20PM%20(3).jpeg)
+
 
 
 
