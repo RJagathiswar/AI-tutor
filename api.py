@@ -9,7 +9,7 @@ app = FastAPI(title="AI Tutor Backend")
 
 # --------- LOAD DATA ONCE AT STARTUP ---------
 # Expecting file: data/clean_student_dataset.csv
-df = pd.read_csv("../data/clean_student_dataset.csv")
+df = pd.read_csv("clean_student_dataset.csv")
 
 # convert concept_tags from string to list
 def _parse_tags(x):
